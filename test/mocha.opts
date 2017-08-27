@@ -1,0 +1,7 @@
+--recursive
+--reporter spec
+--slow 1000
+--require test/setup.js
+--timeout 1000
+-R spec
+
